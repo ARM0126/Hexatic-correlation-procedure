@@ -1,3 +1,7 @@
+//Copyright Abdul Rahman Mohtasebzadeh 2020
+//This notice and this permission notice shall be included in all copies or
+//substantial portions of the Software. If you use you have to cite or reference
+
 #pragma rtGlobals=1		// Use modern global access method.
 
 function sortang_v7()
